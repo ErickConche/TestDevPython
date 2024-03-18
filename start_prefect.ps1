@@ -10,6 +10,8 @@ python -m pip install venv
 python -m venv venv
 .\venv\Scripts\Activate.ps1
 python -m pip install prefect
+python -m pip install pandas
+python -m pip install selenium
 
 
 Start-Process powershell  {prefect --no-prompt deploy --all
