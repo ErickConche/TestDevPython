@@ -1,0 +1,13 @@
+deployments:
+- name: deploy-1
+  entrypoint: main.py:main
+  work_pool:
+    name: default
+    work_queue_name:
+    job_variables: {}
+  version:
+  tags: []
+  description:
+  parameters: {}
+  schedules: []
+  pull:

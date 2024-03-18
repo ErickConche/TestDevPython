@@ -1,0 +1,3 @@
+{"saldo": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.22704/dados?formato=csv",
+ "receita": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.22705/dados?formato=csv",
+ "despesa": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.22706/dados?formato=csv"}
