@@ -13,7 +13,7 @@ python -m pip install prefect
 python -m pip install pandas
 python -m pip install selenium
 python -m pip install sqlite
-
+ 
 
 Start-Process powershell  {prefect --no-prompt deploy --all
                            prefect server start;
