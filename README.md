@@ -11,9 +11,11 @@ Este projeto foi desenvolvido como uma ferramenta para:
 
 Para executar o software:
 
-- Certifique-se de que as bibliotecas e módulos necessários estejam instalados em seu ambiente. Caso seja necessário instalar alguma biblioteca, utilize o comando `pip install xxxx` no terminal, substituindo 'xxxx' pelo nome da biblioteca ou módulo desejado.
-- Execute o arquivo start_prefect.ps1 com o Powershell para iniciar o worker e o servidor do Prefect.
-- Abra o arquivo main.py e execute-o.
+- Execute o arquivo start_prefect.ps1 com o Powershell para iniciar o worker e o servidor do Prefect. Esse arquivo também instalará as dependências necessáraias;
+- Caso seja necessário instalar alguma biblioteca, utilize o comando `pip install xxxx` no terminal, substituindo 'xxxx' pelo nome da biblioteca ou módulo desejado;
+- Acesse o link `localhost:4200`;
+- Clique em 'Deployments';
+- E então, haverá os deploys elaborados prontos para serem executados pela interface.
 
 ## Ferramentas e Tecnologias Utilizadas
 
