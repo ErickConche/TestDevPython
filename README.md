@@ -11,11 +11,17 @@ Este projeto foi desenvolvido como uma ferramenta para:
 
 Para executar o software:
 
-- Execute o arquivo start_prefect.ps1 com o Powershell para iniciar o worker e o servidor do Prefect. Esse arquivo também instalará as dependências necessáraias;
+- Execute com arquivo start_prefect.ps1 com o Powershell para iniciar o worker e o servidor do Prefect. Esse arquivo também instalará as dependências necessáraias;
+- Para executar com o Powershell, basta clicar com o botão direito no arquivo, e clicar em "Executar com o Powershell", conforme mostra a imagem a seguir:
+
+![Alt text](image.png)
+
+- Garante que o terminal Powershell será executado na mesma pasta do projeto completo;
 - Caso ainda seja necessário instalar alguma biblioteca, utilize o comando `pip install xxxx` no terminal, substituindo 'xxxx' pelo nome da biblioteca ou módulo desejado;
 - Acesse o link `localhost:4200`;
 - Clique em 'Deployments';
 - E então, haverá os deploys elaborados e prontos para serem executados pela interface.
+- !!! 
 
 ## Ferramentas e Tecnologias Utilizadas
 
