@@ -16,12 +16,11 @@ Para executar o software:
 
 ![Alt text](image.png)
 
-- Garante que o terminal Powershell será executado na mesma pasta do projeto completo;
+- Garanta que o terminal Powershell será executado na pasta do repositório do projeto;
 - Caso ainda seja necessário instalar alguma biblioteca, utilize o comando `pip install xxxx` no terminal, substituindo 'xxxx' pelo nome da biblioteca ou módulo desejado;
 - Acesse o link `localhost:4200`;
 - Clique em 'Deployments';
 - E então, haverá os deploys elaborados e prontos para serem executados pela interface.
-- !!! 
 
 ## Ferramentas e Tecnologias Utilizadas
 
