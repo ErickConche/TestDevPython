@@ -15,7 +15,7 @@ Para executar o software:
 - Caso ainda seja necessário instalar alguma biblioteca, utilize o comando `pip install xxxx` no terminal, substituindo 'xxxx' pelo nome da biblioteca ou módulo desejado;
 - Acesse o link `localhost:4200`;
 - Clique em 'Deployments';
-- E então, haverá os deploys elaborados prontos para serem executados pela interface.
+- E então, haverá os deploys elaborados e prontos para serem executados pela interface.
 
 ## Ferramentas e Tecnologias Utilizadas
 
